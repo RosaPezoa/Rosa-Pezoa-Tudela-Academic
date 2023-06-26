@@ -79,5 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rosa Pezoa-Tudela is a doctoral candidate in Applied Linguistics at the University of Auckland. She holds a Master´s degree in Applied Linguistics from the Pontificia Universidad Católica de Chile and a Postgraduate Certificate in Applied Educational Leadership and Management from the University of London. Her research interests are EAP and source-based writing. She has publish in the LEC Journal, Estudios Pedagógicos, ARTESOL ESP Journal and the Journal for Academic Purposes. 
+
+
 {style="text-align: justify;"}
