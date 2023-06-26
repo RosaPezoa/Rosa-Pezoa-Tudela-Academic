@@ -13,32 +13,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Academic and Teacher Educator at Universidad Catolica del Norte, Chile 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Auckland 
+    url: https://www.https://www.auckland.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include English language teaching and education, TESOL and academic writing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Linguistics 
+  - TESOL 
+  - Academic writing 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: PhD in Applied Linguistics 
+      institution: University of Auckland 
+      year: 2023
+    - course: Master in TESOL 
+      institution: Pontificia Universidad Catolica de Chile
+      year: 2014
+    - course: Postgraduate Certificate in Applied Educational Leadership and Management
       institution: Massachusetts Institute of Technology
       year: 2008
 
