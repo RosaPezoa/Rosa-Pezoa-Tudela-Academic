@@ -1,10 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
-
+title: Rosa Pezoa-Tudela
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rosa
+last_name: Pezoa-Tudela
 
 # Status emoji
 status:
